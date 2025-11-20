@@ -1,0 +1,1 @@
+// API confirmar pagamento placeholder
